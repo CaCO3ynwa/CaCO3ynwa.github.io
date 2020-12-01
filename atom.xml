@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://caco3ynwa.github.io</id>
     <title>Gridea</title>
-    <updated>2020-11-30T13:30:11.934Z</updated>
+    <updated>2020-12-01T02:41:42.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://caco3ynwa.github.io"/>
     <link rel="self" href="https://caco3ynwa.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://caco3ynwa.github.io/images/avatar.png</logo>
     <icon>https://caco3ynwa.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[海伯利安]]></title>
+        <id>https://caco3ynwa.github.io/post/hai-bo-li-an/</id>
+        <link href="https://caco3ynwa.github.io/post/hai-bo-li-an/">
+        </link>
+        <updated>2020-11-30T13:38:08.000Z</updated>
+        <content type="html"><![CDATA[<p>海伯利安的第一部是在重庆回来的飞机上开始读的，当时只读完了第一卷，神父一章的内容。<br>
+多年以前在知乎上看到关于三体文笔的评论，认为大刘在各方面模仿阿西莫夫，而在文笔也显得比较朴实无华，而众位答主对于科幻小说的文笔最高的褒奖都归于丹西蒙斯的海伯利安。由于我对大刘先入为主，很难想象一个文笔好的科幻小说是什么样的存在。<br>
+人毕竟无法想象思维之外的存在。</p>
+<p>然而只读完第一章，就足够让我理解这是一个什么样的存在。细致入微的环境描写，丰沛的细节，精确而又不失克制的情感展现。如果说读阿西莫夫和大刘像是在读历史，从来者的视角欣赏波澜壮阔的未来世界的发展洪流的话，那丹西蒙斯就是真正的小说家，文学家。老练而又细腻的笔触将世界作为一幅可视而又生动的画面呈现在读者的眼前，而那幅画面并不是静态的，人物，故事都精确而细腻的在画面中流动，宛如一出精心布景和排练的舞台剧。<br>
+而另一方面，不管是从创意，悬念设置，立意等任何角度来说，神父的故事都是一个让我汗毛直立的顶级作品。一个人类信仰的悲歌，虽然他是虚构的，虽然他是一个我并不信仰的天主教神父故事。但它依旧让我产生了当时看到郭靖侠之大者为国为民时的崇高感，这是文学和美学上的伟大成就。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Test标题]]></title>
         <id>https://caco3ynwa.github.io/post/test-biao-ti/</id>
@@ -21,7 +34,14 @@
 test2**<br>
 2131<br>
 test2**</p>
-<p>test2**</p>
+<p>test2**<br>
+要有输出<br>
+以量变而到质变<br>
+每日三大事<br>
+运动<br>
+输入<br>
+以及输出<br>
+断不可废</p>
 ]]></content>
     </entry>
 </feed>
